@@ -1,0 +1,15 @@
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\bin\Debug\net9.0\EXAsciiArt.exe
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\bin\Debug\net9.0\EXAsciiArt.deps.json
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\bin\Debug\net9.0\EXAsciiArt.runtimeconfig.json
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\bin\Debug\net9.0\EXAsciiArt.dll
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\bin\Debug\net9.0\EXAsciiArt.pdb
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\obj\Debug\net9.0\EXAsciiArt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\obj\Debug\net9.0\EXAsciiArt.AssemblyInfoInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\obj\Debug\net9.0\EXAsciiArt.AssemblyInfo.cs
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\obj\Debug\net9.0\EXAsciiArt.csproj.CoreCompileInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\obj\Debug\net9.0\EXAsciiArt.sourcelink.json
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\obj\Debug\net9.0\EXAsciiArt.dll
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\obj\Debug\net9.0\refint\EXAsciiArt.dll
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\obj\Debug\net9.0\EXAsciiArt.pdb
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\obj\Debug\net9.0\EXAsciiArt.genruntimeconfig.cache
+C:\Users\ls139\Desktop\listas de lógica\exasciiart\obj\Debug\net9.0\ref\EXAsciiArt.dll
